@@ -1,0 +1,33 @@
+ body{
+    background-color: #6b6a8fff;
+    font-family: "Lucida Handwriting", cursive;
+}
+#title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+#result{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 100px;
+}
+.dice_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 20vh;
+    gap: 50px;
+    
+}
+.dice{
+    width: 150px;
+    height: 150px;
+
+}
